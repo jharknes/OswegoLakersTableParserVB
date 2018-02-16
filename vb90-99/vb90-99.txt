@@ -1,0 +1,2044 @@
+<table border="0" cellpadding="1" cellspacing="1" style="width:614px;">
+<tbody>
+<tr>
+<td style="width: 195px;"><em><u>1990</u></em></td>
+<td style="width: 143px;"><u><em>Gwen Tamayo</em></u></td>
+<td style="width: 258px;"><em><u>12-15, (0-8) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/8</td>
+<td style="width: 143px;">Potsdam</td>
+<td style="width: 258px;">L, 1-3 (6-15, 15-4, 3-15, 5-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/13</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">W, 3-1 (15-4, 14-16, 15-11, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/15</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">L, 3-0 (13-15, 8-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/18</td>
+<td style="width: 143px;">SUNYIT</td>
+<td style="width: 258px;">W, 2-0 (15-12, 17-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/18</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">W, 2-1 (7-15, 15-9, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/21</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-2 (12-15, 15-12, 15-12, 13-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/21</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-2 (14-16, 15-4, 13-15, 15-13, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/22</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-0 (3-15, 7-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">L, 3-0 (14-16, 7-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">L, 3-0 (5-15, 7-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/29</td>
+<td style="width: 143px;">Russell Sage</td>
+<td style="width: 258px;">L, 3-1 (13-15, 14-16, 16-14, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/2</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">L, 2-0 (8-15, 0-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/2</td>
+<td style="width: 143px;">Siena</td>
+<td style="width: 258px;">W, 2-0 (17-15, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/5</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-1 (5-15, 10-15, 15-11, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/5</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (4-15, 5-15, 5-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/6</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-0 (3-15, 10-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/9</td>
+<td style="width: 143px;">SUNYIT</td>
+<td style="width: 258px;">W, 3-2 (15-6, 15-4, 12-15, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/11</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">W, 3-1 (13-15, 15-3, 15-10, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/13</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (3-15, 5-15, 3-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/13</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-1 (8-15, 15-10, 4-15, 5-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/16</td>
+<td style="width: 143px;">St. Lawrence</td>
+<td style="width: 258px;">W, 3-1 (7-15, 17-15, 15-5, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">^Potsdam</td>
+<td style="width: 258px;">W, 2-0 (15-10, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">^Siena</td>
+<td style="width: 258px;">W, 2-1 (15-11, 13-15, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/20</td>
+<td style="width: 143px;">^SUNYIT</td>
+<td style="width: 258px;">W, 2-0 (15-9, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/20</td>
+<td style="width: 143px;">^Clarkson</td>
+<td style="width: 258px;">W, 2-0 (15-6, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/20</td>
+<td style="width: 143px;">^Plattsburgh</td>
+<td style="width: 258px;">W, 2-0 (15-8, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/23</td>
+<td style="width: 143px;">Keuka</td>
+<td style="width: 258px;">L, 3-0 (6-15, 7-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - Potsdam Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1991</u></em></td>
+<td style="width: 143px;"><u><em>Dani Martin</em></u></td>
+<td style="width: 258px;"><em><u>16-14 (5-4) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">W, 3-0 (14-16, 11-15, 15-9, 15-10, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/13</td>
+<td style="width: 143px;">^St. Rose</td>
+<td style="width: 258px;">L, 2-0 </td>
+</tr>
+<tr>
+<td style="width: 195px;">9/13</td>
+<td style="width: 143px;">^Elmira</td>
+<td style="width: 258px;">L, 2-0 (9-15, 16-18)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/14</td>
+<td style="width: 143px;">^Clarkson</td>
+<td style="width: 258px;">W, 2-0 (15-13, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/14</td>
+<td style="width: 143px;">^Hartwick</td>
+<td style="width: 258px;">W, 2-0 (15-11, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/14</td>
+<td style="width: 143px;">^Union</td>
+<td style="width: 258px;">W, 2-0 (15-11, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/17</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">L, 3-0 (4-15, 8-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/21</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">L, 3-2 (15-9, 16-14, 0-15, 7-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">W, 3-1 (7-15, 15-11, 15-5, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-6, 15-1, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (8-15, 10-15, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/28</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-1 (6-15, 15-12, 15-7, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/28</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-0 (17-15, 15-9, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/28</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-1 (14-16, 15-7, 9-15, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/2</td>
+<td style="width: 143px;">Russell Sage</td>
+<td style="width: 258px;">W, 3-2 (6-15, 15-5, 10-15, 15-7, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/4</td>
+<td style="width: 143px;">Potsdam</td>
+<td style="width: 258px;">L, 3-0 (13-15, 10-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/8</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">W, 3-0 (15-10, 15-13, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/10</td>
+<td style="width: 143px;">SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-2, 15-8, 15-1)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/16</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">L, 3-0 (7-15, 12-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-0 (16-14, 15-3, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-1 (10-15, 13-15, 15-11, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-2 (14-16, 15-10, 16-14, 11-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-2 (11-15, 12-15, 15-2, 15-7, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/22</td>
+<td style="width: 143px;">St. Lawrence</td>
+<td style="width: 258px;">W, 3-1 (16-14, 13-15, 15-7, 18-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/24</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">L, 3-1 (15-13, 12-15, 11-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">&Potsdam</td>
+<td style="width: 258px;">W, 2-1 (15-7, 12-15, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">&Oneonta</td>
+<td style="width: 258px;">L, 2-0 (13-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">&Siena</td>
+<td style="width: 258px;">L, 2-1 (11-15, 15-9, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">&SUNYIT</td>
+<td style="width: 258px;">W, 2-0 (15-1, 15-4)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/1</td>
+<td style="width: 143px;">%Oneonta</td>
+<td style="width: 258px;">L, 3-0 (9-15, 7-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">& - North Country Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - Potsdam Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">% - SUNYAC Championship</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1992</u></em></td>
+<td style="width: 143px;"><u><em>Dani Martin</em></u></td>
+<td style="width: 258px;"><em><u>27-8 (8-2) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">Date of Games N/A</td>
+<td style="width: 143px;">Hilbert</td>
+<td style="width: 258px;">W, 2-0 (15-5, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">L, 2-0 (14-16, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">W, 3-0 (15-5, 15-13, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">^Clarkson</td>
+<td style="width: 258px;">W, 2-0 (15-2, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">^Elmira</td>
+<td style="width: 258px;">W, 2-1 (11-15, 15-13, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">^Hilbert</td>
+<td style="width: 258px;">W, 2-1 (15-10, 10-15, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">^Potsdam</td>
+<td style="width: 258px;">W, 2-0 (15-10, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">W, 3-2 (10-15, 13-15, 17-15, 15-9, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">L, 3-2 (15-12, 15-17, 14-16, 15-6, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">W, 2-1 (15-4, 15-10, 15-17)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-4, 15-1, 15-1)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (10-15, 10-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-0 (15-11, 15-11, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-1 (15-2, 13-15, 15-7, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-1 (15-8, 8-15, 17-15, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Clarkson</td>
+<td style="width: 258px;">W, 3-0 (15-4, 15-8, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Russell Sage</td>
+<td style="width: 258px;">W, 2-0 (15-3, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">SUNYIT</td>
+<td style="width: 258px;">W, 2-0 (15-7, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">L, 2-1 (13-15, 15-5, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Hartwick</td>
+<td style="width: 258px;">W, 2-0 (15-1, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Potsdam</td>
+<td style="width: 258px;">W, 2-0 (15-7, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Keuka</td>
+<td style="width: 258px;">W, 2-0 (15-9, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">W, 3-1 (11-15, 15-5, 15-10, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-2, 15-0, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-13, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-0 (15-4, 15-4, 15-1)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-1 (15-8, 15-0, 5-15, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-1 (13-15, 15-6, 4-15, 3-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">St. Lawrence</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-4, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">&Potsdam</td>
+<td style="width: 258px;">W, 3-2 (12-15, 15-8, 15-5, 9-15, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">&Cortland</td>
+<td style="width: 258px;">L, 3-1 (6-15, 15-11, 4-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">#Oneonta</td>
+<td style="width: 258px;">W, 2-1 (4-15, 15-7, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">#Vasser</td>
+<td style="width: 258px;">W, 2-1 (15-7, 7-15, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">#RIT</td>
+<td style="width: 258px;">L, 2-0 (4-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"></td>
+<td style="width: 143px;">#Stony Brook</td>
+<td style="width: 258px;">L, 2-0 (0-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - North Country Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">& - SUNYAC Tournament</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"># - NYSAIAW at St. John Fisher</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1993</u></em></td>
+<td style="width: 143px;"><em><u>Dani (Martin) Drews</u></em></td>
+<td style="width: 258px;"><em><u>35-9 (7-3) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">&LeMoyne</td>
+<td style="width: 258px;">W, 2-0 (15-9, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">&Cortland</td>
+<td style="width: 258px;">L, 2-1 (9-15, 15-11, 5-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">&Hartwick</td>
+<td style="width: 258px;">W, 2-0 (16-14, 15-0)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/4</td>
+<td style="width: 143px;">&Dickson</td>
+<td style="width: 258px;">W, 2-0 (15-3, 15-2)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/4</td>
+<td style="width: 143px;">&Binghamton</td>
+<td style="width: 258px;">L, 2-1 (11-15, 15-6, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/7</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">W, 3-0 (15-9, 15-5, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">^Elmira</td>
+<td style="width: 258px;">W, 2-0 (15-5, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">^Clarkson</td>
+<td style="width: 258px;">W, 2-0 (15-10, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">^Keuka</td>
+<td style="width: 258px;">W, 2-0 (15-8, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/11</td>
+<td style="width: 143px;">^Hartwick</td>
+<td style="width: 258px;">W, 2-0 (16-14, 15-2)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/11</td>
+<td style="width: 143px;">^Potsdam</td>
+<td style="width: 258px;">W, 2-0 (15-3, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/14</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-10, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/17</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">W, 3-0 (15-0, 17-15, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/21</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">W, 3-0 (15-6, 15-8, 15-1)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-1 (11-15, 11-15, 15-2, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-5, 15-5, 15-0)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-1 (7-15, 15-5, 15-6, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-10, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-10, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/28</td>
+<td style="width: 143px;">Keuka</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-8, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/1</td>
+<td style="width: 143px;">Clarkson</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-10, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/2</td>
+<td style="width: 143px;">Russell Sage</td>
+<td style="width: 258px;">W, 2-0 (15-3, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/2</td>
+<td style="width: 143px;">SUNYIT</td>
+<td style="width: 258px;">W, 2-0 (15-0, 15-0)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/5</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">W, 3-0 (15-7, 4-15, 15-11, 13-15, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/8</td>
+<td style="width: 143px;">Potsdam</td>
+<td style="width: 258px;">W, 3-2 (15-7, 4-15, 15-11, 13-15, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/11</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">W, 3-1 (15-13, 7-15, 15-10, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-0, 15-2, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-1 (12-15, 8-15, 15-2, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-0 (15-11, 15-12, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/16</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (14-16, 1-15, 5-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/16</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-2, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">St. Lawrence</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-12, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/22</td>
+<td style="width: 143px;">$Pitt-Johnstown</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-13, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/22</td>
+<td style="width: 143px;">$Adelphi</td>
+<td style="width: 258px;">W, 3-0 (15-10, 15-6, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/23</td>
+<td style="width: 143px;">$New York Ins. Of Tech</td>
+<td style="width: 258px;">W, 3-1 (15-12, 15-12, 14-16, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/23</td>
+<td style="width: 143px;">$Univ. of Wash D.C. </td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-6, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/23</td>
+<td style="width: 143px;">$Mercyhurst</td>
+<td style="width: 258px;">L, 3-2 (15-6, 12-15, 5-15, 15-9, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/29</td>
+<td style="width: 143px;">%Binghamton</td>
+<td style="width: 258px;">W, 3-1 (15-5, 11-15, 15-2, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/30</td>
+<td style="width: 143px;">%Brockport</td>
+<td style="width: 258px;">L, 3-0 (8-15, 6-15, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/2</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">W, 3-0 (15-6, 15-4, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/6</td>
+<td style="width: 143px;">#Hunter</td>
+<td style="width: 258px;">W, 2-0 (15-8, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/6</td>
+<td style="width: 143px;">#New Paltz</td>
+<td style="width: 258px;">W, 2-0 (15-4, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/6</td>
+<td style="width: 143px;">#Ithaca</td>
+<td style="width: 258px;">L, 2-1 (12-15, 15-12, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/7</td>
+<td style="width: 143px;">#RIT</td>
+<td style="width: 258px;">L, 2-0 (7-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - North Country Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">& - Cortland Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">$ - Shippenburg Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">% - SUNYAC Championships</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"># - NYSAIAW at Ithaca</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1994</u></em></td>
+<td style="width: 143px;"><u><em>Dani (Martin) Drews</em></u></td>
+<td style="width: 258px;"><em><u>42-4 (9-1) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/2</td>
+<td style="width: 143px;">#York</td>
+<td style="width: 258px;">W, 2-0 (15-9, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/2</td>
+<td style="width: 143px;">#Potsdam</td>
+<td style="width: 258px;">W, 2-0 (15-12, 15-2)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">#Penn St. Behrend</td>
+<td style="width: 258px;">W, 2-0 (15-7, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">#Hartwick</td>
+<td style="width: 258px;">W, 2-0 (15-3, 15-4)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">#Cortland</td>
+<td style="width: 258px;">W, 3-0 (15-8, 15-9, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">#Binghamton</td>
+<td style="width: 258px;">W, 3-2 (15-11, 14-16, 14-16, 15-5, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/7</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">W, 3-0 (15-9, 15-8, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">&Oneonta</td>
+<td style="width: 258px;">W, 2-0 (15-12, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">&Binghamton</td>
+<td style="width: 258px;">W, 2-0 (15-9, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">&Rutgers-Newark</td>
+<td style="width: 258px;">W, 2-0 (15-5, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">&New Paltz</td>
+<td style="width: 258px;">W, 2-0 (15-9, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/17</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">W, 3-0 (15-2, 15-4, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/17</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">W, 3-0 (15-6, 15-8, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/17</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-6, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/23</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-0, 15-3, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/23</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-1 (9-15, 15-11, 15-4, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-1 (15-10, 15-6, 11-15, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-0 (15-11, 15-7, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-1 (5-15, 6-15, 15-13, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">Keuka</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-0, 15-0)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/30</td>
+<td style="width: 143px;">$Fredonia</td>
+<td style="width: 258px;">W, 2-0 (15-6, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/30</td>
+<td style="width: 143px;">$Brockport</td>
+<td style="width: 258px;">L, 2-0 (2-15, 0-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/30</td>
+<td style="width: 143px;">$Alfred</td>
+<td style="width: 258px;">W, 2-0 (15-5, N/A)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/1</td>
+<td style="width: 143px;">$Elmira</td>
+<td style="width: 258px;">W, 2-0 (15-7, N/A)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/1</td>
+<td style="width: 143px;">$St. John Fisher</td>
+<td style="width: 258px;">W, 2-1 (15-6, 10-15, 15-1)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/4</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">W, 3-0 (15-5, 15-9, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/8</td>
+<td style="width: 143px;">^Union</td>
+<td style="width: 258px;">W, 2-0 (15-5, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/8</td>
+<td style="width: 143px;">^SUNYIT</td>
+<td style="width: 258px;">W, 2-0 (15-0, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/12</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">W, 3-0 (15-4, 15-12, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/14</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-1 (15-8, 9-15, 15-7, 15-2)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/14</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-4, 15-7, 15-1)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/14</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">W, 3-2 (15-9, 6-15, 15-9, 13-15, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-0 (15-8, 15-4, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-1 (15-4, 13-15, 15-2, 15-4)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">St. Lawrence</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-11, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">Clarkson</td>
+<td style="width: 258px;">W, 3-0 (15-1, 15-6, 15-3)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/28</td>
+<td style="width: 143px;">%New Paltz</td>
+<td style="width: 258px;">W, 3-0 (15-9, 15-5, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/29</td>
+<td style="width: 143px;">%Cortland</td>
+<td style="width: 258px;">W, 3-1 (14-16, 15-12, 15-5, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/29</td>
+<td style="width: 143px;">%Brockport</td>
+<td style="width: 258px;">L, 3-2 (10-15, 11-15, 15-9, 15-12, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/1</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">W, 3-1 (15-9, 12-15, 15-11, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/4</td>
+<td style="width: 143px;">~St. John Fisher</td>
+<td style="width: 258px;">W, 3-2 (7-15, 15-6, 9-15, 15-12, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/5</td>
+<td style="width: 143px;">~Vassar</td>
+<td style="width: 258px;">W, 3-2 (13-15, 12-15, 15-4, 15-4, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/5</td>
+<td style="width: 143px;">~New York Univ.</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-9, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/11</td>
+<td style="width: 143px;">~Brockport</td>
+<td style="width: 258px;">L, 3-1 (8-15, 15-12, 5-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;"># - Cortland Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">& - Albany Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - Utica Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">$ - St. John Fisher Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">% - SUNYAC Championship</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">~ - NYSAIAW at Vassar</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1995</u></em></td>
+<td style="width: 143px;"><em><u>Dani (Martin) Drews</u></em></td>
+<td style="width: 258px;"><em><u>14-22 (4-6) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/1</td>
+<td style="width: 143px;">#Keuka</td>
+<td style="width: 258px;">W, 2-0 (15-2, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/1</td>
+<td style="width: 143px;">#York</td>
+<td style="width: 258px;">W, 2-0 (15-12, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/2</td>
+<td style="width: 143px;">#Oneonta</td>
+<td style="width: 258px;">L, 2-1 (10-15, 17-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/2</td>
+<td style="width: 143px;">#Penn St. Behrend</td>
+<td style="width: 258px;">L, 2-1 (15-9, 6-15, 15-17)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/5</td>
+<td style="width: 143px;">^LeMoyne</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-12, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/8</td>
+<td style="width: 143px;">^Wheaton</td>
+<td style="width: 258px;">L, 3-1 (14-16, 15-6, 9-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/9</td>
+<td style="width: 143px;">^Vassar</td>
+<td style="width: 258px;">L, 3-2 (15-13, 15-12, 14-16, 5-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/9</td>
+<td style="width: 143px;">^Union</td>
+<td style="width: 258px;">L, 3-1 (7-15, 15-4, 10-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/16</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">W, 3-0 (16-14, 15-8, 18-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/16</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">W, 3-0 (15-7, 15-6, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/19</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">W, 3-1 (15-?, 9-15, 15-2, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/22</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (11-15, 2-15, 16-18)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/22</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-11, 15-7, 17-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/23</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-2 (15-3, 15-8, 14-16, 10-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/23</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-0 (15-11, 15-7, 17-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/23</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-2 (4-15, 15-6, 18-16, 11-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/26</td>
+<td style="width: 143px;">Keuka</td>
+<td style="width: 258px;">W, 3-0 </td>
+</tr>
+<tr>
+<td style="width: 195px;">9/29</td>
+<td style="width: 143px;">%Tufts</td>
+<td style="width: 258px;">L, 2-0 (12-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/29</td>
+<td style="width: 143px;">tes</td>
+<td style="width: 258px;">L, 2-1 (15-9, 8-15, 3-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/29</td>
+<td style="width: 143px;">%Colby</td>
+<td style="width: 258px;">W, 2-1 (12-15, 15-11, 15-4)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/30</td>
+<td style="width: 143px;">%Wellesley</td>
+<td style="width: 258px;">L, 2-1 (12-15, 15-8, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/3</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">L, 3-1 (16-14, 9-15, 2-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/11</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">W, 3-1 </td>
+</tr>
+<tr>
+<td style="width: 195px;">10/13</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-0 (15-1, 15-7, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/13</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-1 (3-15, 9-15, 15-10, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/14</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-2 (15-7, 7-15, 9-15, 15-11, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/14</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">W, 3-1 (15-12, 15-11, 4-15, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/14</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-2 (15-5, 9-15, 10-15, 15-10, 19-21)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/17</td>
+<td style="width: 143px;">St. Lawrence</td>
+<td style="width: 258px;">W, 3-0 </td>
+</tr>
+<tr>
+<td style="width: 195px;">10/20</td>
+<td style="width: 143px;">$Muskingum</td>
+<td style="width: 258px;">L, 3-0 (9-15, 3-15, 2-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/21</td>
+<td style="width: 143px;">$St. Xavier</td>
+<td style="width: 258px;">L, 3-0 (3-15, 10-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/21</td>
+<td style="width: 143px;">$Gettysburg</td>
+<td style="width: 258px;">L, 3-0 (8-15, 6-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/31</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">L, 3-1 </td>
+</tr>
+<tr>
+<td style="width: 195px;">11/3</td>
+<td style="width: 143px;">&Coast Guard</td>
+<td style="width: 258px;">L, 3-0 (10-15, 10-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/3</td>
+<td style="width: 143px;">&Eastern Conn. State</td>
+<td style="width: 258px;">L, 3-0 (10-15, 10-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/3</td>
+<td style="width: 143px;">&Springfield</td>
+<td style="width: 258px;">L, 3-0 (4-15, 4-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"># - Cortland Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - Vassar Tournament</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">% - Bates Tournament</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">$ - Juniata Tournament</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">& - NYSWCAA at Cortland</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1996</u></em></td>
+<td style="width: 143px;"><em><u>Dani (Martin) Drews</u></em></td>
+<td style="width: 258px;"><em><u>9-25 (5-5) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/6</td>
+<td style="width: 143px;">#York</td>
+<td style="width: 258px;">L, 3-0 (9-15, 7-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/6</td>
+<td style="width: 143px;">#Plattsburgh</td>
+<td style="width: 258px;">W, 3-0 (15-8, 15-13, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/7</td>
+<td style="width: 143px;">#Binghamton</td>
+<td style="width: 258px;">L, 3-2 (15-11, 4-15, 15-11, 12-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/7</td>
+<td style="width: 143px;">#Penn St. Behrend</td>
+<td style="width: 258px;">L, 3-0 (5-15, 9-15, 3-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">L, 3-1 (4-15, 2-15, 15-13, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/14</td>
+<td style="width: 143px;">Alfred</td>
+<td style="width: 258px;">W, 3-1 (15-2, 4-15, 15-7, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/14</td>
+<td style="width: 143px;">Skidmore</td>
+<td style="width: 258px;">L, 3-1 (15-10, 4-15, 10-15, 10-15</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/17</td>
+<td style="width: 143px;">Union</td>
+<td style="width: 258px;">L, 3-0 (11-15, 5-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/21</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">L, 3-0 (9-15, 3-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/21</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">L, 3-1 (3-15, 15-13, 8-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">L, 3-1 </td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-1 (10-15, 15-13, 9-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-0 (13-15, 7-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/28</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">W, 3-1 (15-6, 15-8, 12-15, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/28</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-2 (15-13, 13-15, 15-10, 1-15, 15-8)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/28</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-1 (15-2, 15-7, 7-15, 15-7)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/1</td>
+<td style="width: 143px;">Keuka</td>
+<td style="width: 258px;">W, 3-0 (15-8, 15-8, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/3</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">L, 3-0 (9-15, 9-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/8</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">L, 3-0 </td>
+</tr>
+<tr>
+<td style="width: 195px;">10/11</td>
+<td style="width: 143px;">%RIT</td>
+<td style="width: 258px;">L, 3-1 (10-15, 4-15, 15-6, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/11</td>
+<td style="width: 143px;">%Ithaca</td>
+<td style="width: 258px;">L, 3-0 (7-15, 11-15, 2-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/12</td>
+<td style="width: 143px;">%Rutgers-Neward</td>
+<td style="width: 258px;">W, 3-2 (11-15, 10-15, 15-13, 15-13, 17-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/12</td>
+<td style="width: 143px;">%E. Stroudsburg</td>
+<td style="width: 258px;">L, 3-0 (8-15, 2-15, 1-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">L, 3-1 (15-12, 16-18, 7-15, 2-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-1 (8-15, 12-15, 15-13, 19-20)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*SUNYIT</td>
+<td style="width: 258px;">W, 3-1 (15-7, 10-15, 15-11, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-0 (10-15, 8-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">W, 3-0 (15-8, 15-4, 15-6)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-1 (9-15, 11-15, 15-10, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">^Alfred</td>
+<td style="width: 258px;">L, 3-2 (7-15, 9-15, 15-3, 15-9, 15-17)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">^Geneseo</td>
+<td style="width: 258px;">L, 3-0 (11-15, 3-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">^Oneonta</td>
+<td style="width: 258px;">L, 3-1 (7-15, 15-6, 13-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/30</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">L, 3-0 (9-15, 12-15, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">11/3</td>
+<td style="width: 143px;">&Oneonta</td>
+<td style="width: 258px;">L, 3-0 (12-15, 9-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"># - Cortland Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">% - Ithaca Tournament</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - Oswego State Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">& - SUNYAC Championship</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1997</u></em></td>
+<td style="width: 143px;"><u><em>Dani (Martin) Drews</em></u></td>
+<td style="width: 258px;"><u>8-23 (0-8) SUNYAC</u></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/5</td>
+<td style="width: 143px;">#LeMoyne</td>
+<td style="width: 258px;">L, 3-0 (10-15, 1-15, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/5</td>
+<td style="width: 143px;">#Geneseo</td>
+<td style="width: 258px;">L, 3-0 (10-15, 9-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/6</td>
+<td style="width: 143px;">#Plattsburgh</td>
+<td style="width: 258px;">L, 3-0 (12-15, 8-15, 0-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/6</td>
+<td style="width: 143px;">#St. Lawrence</td>
+<td style="width: 258px;">W, 3-1 (15-8, 15-6, 11-15, 15-5)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/9</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">W, 3-1 (15-9, 15-6, 10-15, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/13</td>
+<td style="width: 143px;">Alfred</td>
+<td style="width: 258px;">L, 3-1 (17-15, 13-15, 10-15, 3-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/13</td>
+<td style="width: 143px;">Skidmore</td>
+<td style="width: 258px;">W, 3-2 (9-15, 15-12, 12-15, 15-8, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/16</td>
+<td style="width: 143px;">Union</td>
+<td style="width: 258px;">W, 3-1 (13-15, 15-12, 15-8, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/20</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">W, 3-1 (15-9, 15-4, 9-15, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/20</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">L, 3-0 (7-15, 9-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/23</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">W, 3-0 (15-11, 15-7, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/26</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-0 (14-16, 4-15, 15-17)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/26</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-0 (14-16, 4-15, 15-17)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-2 (6-15, 15-13, 15-13, 11-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/27</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-2 (8-15, 7-15, 17-15, 15-11, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/30</td>
+<td style="width: 143px;">Roberts Wesleyan</td>
+<td style="width: 258px;">L, 3-1 (7-15, 15-13, 10-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/2</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">L, 3-2 (15-7, 15-7, 13-15, 14-16, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/7</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">L, 3-1 (7-15, 15-13, 10-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/10</td>
+<td style="width: 143px;">%Ithaca</td>
+<td style="width: 258px;">L, 3-0 (4-15, 9-15, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/10</td>
+<td style="width: 143px;">%Rutgers-Newark</td>
+<td style="width: 258px;">L, 3-1 (15-3, 5-15, 9-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/11</td>
+<td style="width: 143px;">%RIT</td>
+<td style="width: 258px;">L, 3-0 (2-15, 7-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/11</td>
+<td style="width: 143px;">%Binghamton</td>
+<td style="width: 258px;">L, 3-0 (9-15, 7-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/17</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-0 (14-16, 14-16, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/17</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-0 (3-15, 4-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-1 (13-15, 15-11, 14-16, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-1 (11-15, 15-9, 14-16, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/24</td>
+<td style="width: 143px;">^Oneonta</td>
+<td style="width: 258px;">L, 3-0 (8-15, 11-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/24</td>
+<td style="width: 143px;">^Hartwick</td>
+<td style="width: 258px;">W, 3-0 (15-5, 15-10, 15-0)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/25</td>
+<td style="width: 143px;">^Potsdam</td>
+<td style="width: 258px;">W, 3-1 (15-5, 15-7, 13-15, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/25</td>
+<td style="width: 143px;">^Oneonta</td>
+<td style="width: 258px;">L, 3-0 (13-15, 12-15, 1-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/29</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">L, 3-0 (17-19, 0-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"># - Cortland Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">% - Ithaca Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">^ - Oswego State Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1998</u></em></td>
+<td style="width: 143px;"><em><u>Dani (Martin) Drews</u></em></td>
+<td style="width: 258px;"><em><u>7-21 (0-8) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/4</td>
+<td style="width: 143px;">#New York Univ.</td>
+<td style="width: 258px;">L, 3-1 (15-12, 3-15, 7-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/4</td>
+<td style="width: 143px;">#Penn St. Behrend</td>
+<td style="width: 258px;">L, 3-0 (4-15, 10-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/5</td>
+<td style="width: 143px;">#Hartwick</td>
+<td style="width: 258px;">W, 3-2 (2-15, 15-9, 11-15, 15-12, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/5</td>
+<td style="width: 143px;">#Plattsburgh</td>
+<td style="width: 258px;">L, 3-1 (6-15, 9-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/12</td>
+<td style="width: 143px;">Alfred</td>
+<td style="width: 258px;">L, 3-1 (6-15, 9-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/12</td>
+<td style="width: 143px;">Skidmore</td>
+<td style="width: 258px;">L, 3-0 (4-15, 5-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/16</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">W, 3-0 (15-13, 15-6, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/19</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">W, 3-0 (15-12, 20-18, 16-14)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/19</td>
+<td style="width: 143px;">Oneonta</td>
+<td style="width: 258px;">W, 3-2 (12-15, 15-8, 15-5, 9-15, 15-13)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/22</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">L, 3-0 (8-15, 6-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-1 (15-13, 10-15, 5-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-1 (15-9, 14-16, 14-16, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/26</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-0 (5-15, 10-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/26</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (14-16, 2-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/1</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">L, 3-1 (7-15, 2-15, 15-12, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/6</td>
+<td style="width: 143px;">Binghamton</td>
+<td style="width: 258px;">L, 3-0 (4-15, 6-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/10</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">L, 3-0 (11-15, 9-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/17</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">W, 3-1 (15-13, 1-15, 15-13, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/17</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-1 (15-13, 10-15, 5-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (11-15, 8-15, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/18</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-1 (9-15, 15-13, 9-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/21</td>
+<td style="width: 143px;">Roberts Wesleyan</td>
+<td style="width: 258px;">L, 3-0 (11-15, 8-15, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/23</td>
+<td style="width: 143px;">Cazenovia</td>
+<td style="width: 258px;">W, 3-0 (15-3, 15-4, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/24</td>
+<td style="width: 143px;">$Oneonta</td>
+<td style="width: 258px;">L, 3-0 (10-15, 2-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/24</td>
+<td style="width: 143px;">$Union</td>
+<td style="width: 258px;">L, 3-2 (15-12, 10-15, 3-15, 15-13, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/24</td>
+<td style="width: 143px;">$Keuka</td>
+<td style="width: 258px;">W, 3-0 (15-13, 15-9, 15-1)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/24</td>
+<td style="width: 143px;">$Potsdam</td>
+<td style="width: 258px;">L, 3-1 (14-16, 17-15, 11-15, 9-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/27</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">L, 3-0 (3-15, 2-15, 3-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"># - Cortland Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">$ - Oswego State Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">  </td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"><em><u>1999</u></em></td>
+<td style="width: 143px;"><em><u>Dani (Martin) Drews</u></em></td>
+<td style="width: 258px;"><em><u>5-29, (0-8) SUNYAC</u></em></td>
+</tr>
+<tr>
+<td style="width: 195px;">9/3</td>
+<td style="width: 143px;">#Penn St.-Behrend</td>
+<td style="width: 258px;">L, 3-0 (11-15, 9-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/4</td>
+<td style="width: 143px;">#Nazareth</td>
+<td style="width: 258px;">W, 3-1 (9-15, 15-13, 15-7, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/4</td>
+<td style="width: 143px;">#New Paltz</td>
+<td style="width: 258px;">L, 3-1 (15-13, 11-15, 3-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/7</td>
+<td style="width: 143px;">Nazareth</td>
+<td style="width: 258px;">L, 3-1 (15-13, 9-15, 9-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/10</td>
+<td style="width: 143px;">%Skidmore</td>
+<td style="width: 258px;">L, 3-0 (11-15, 8-15, 15-17)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/11</td>
+<td style="width: 143px;">%Elmira</td>
+<td style="width: 258px;">L, 3-1 (15-13, 12-15, 4-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/11</td>
+<td style="width: 143px;">%Pitt-Bradford</td>
+<td style="width: 258px;">L, 3-0 (10-15, 7-15, 12-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/11</td>
+<td style="width: 143px;">%Hamilton</td>
+<td style="width: 258px;">L, 3-0 (12-15, 8-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/15</td>
+<td style="width: 143px;">Daemen</td>
+<td style="width: 258px;">L, 3-0 (10-15, 1-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/18</td>
+<td style="width: 143px;">Hamilton</td>
+<td style="width: 258px;">L, 3-2 (10-15, 15-13, 15-13, 4-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/21</td>
+<td style="width: 143px;">St. John Fisher</td>
+<td style="width: 258px;">L, 3-0 (11-15, 9-15, 2-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-1 (8-15, 5-15, 15-10, 5-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/24</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-1 (10-15, 13-15, 15-6, 3-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-0 (4-15, 7-15, 14-16)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/25</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (5-15, 3-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">9/30</td>
+<td style="width: 143px;">LeMoyne</td>
+<td style="width: 258px;">L, 3-0 (1-15, 4-15, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/5</td>
+<td style="width: 143px;">St. Lawrence</td>
+<td style="width: 258px;">L, 3-0 (5-15, 7-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/5</td>
+<td style="width: 143px;">Potsdam</td>
+<td style="width: 258px;">L, 3-1 (10-15, 13-15, 15-10, 7-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/5</td>
+<td style="width: 143px;">Potsdam</td>
+<td style="width: 258px;">L, 3-1 (13-15, 15-9, 9-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/5</td>
+<td style="width: 143px;">SLU</td>
+<td style="width: 258px;">L, 3-0 (7-15, 9-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/8</td>
+<td style="width: 143px;">&Hartwick</td>
+<td style="width: 258px;">W, 3-2 (10-15, 15-8, 13-15, 15-12, 15-11)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/8</td>
+<td style="width: 143px;">&Plattsburgh</td>
+<td style="width: 258px;">W, 3-2 (15-13, 2-15, 12-15, 15-9, 15-9)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/9</td>
+<td style="width: 143px;">&LIU-C.W. Post</td>
+<td style="width: 258px;">L, 3-0 (1-15, 4-15, 4-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/9</td>
+<td style="width: 143px;">&Messiah</td>
+<td style="width: 258px;">L, 3-0 (10-15, 5-15, 2-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">*Brockport</td>
+<td style="width: 258px;">L, 3-0 (9-15, 13-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/15</td>
+<td style="width: 143px;">*Fredonia</td>
+<td style="width: 258px;">L, 3-1 (15-17, 7-15, 15-7, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/16</td>
+<td style="width: 143px;">*Geneseo</td>
+<td style="width: 258px;">L, 3-1 (9-15, 15-12, 4-15, 8-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/16</td>
+<td style="width: 143px;">*Buffalo State</td>
+<td style="width: 258px;">L, 3-2 (6-15, 4-15, 15-11, 15-12, 6-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/19</td>
+<td style="width: 143px;">Keuka</td>
+<td style="width: 258px;">L, 3-1 (15-11, 6-15, 13-15, 11-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/22</td>
+<td style="width: 143px;">$Hartwick</td>
+<td style="width: 258px;">L, 3-2 (15-6, 15-10, 10-15, 9-15, 10-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/22</td>
+<td style="width: 143px;">$Skidmore</td>
+<td style="width: 258px;">L, 3-0 (6-15, 8-15, 13-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/23</td>
+<td style="width: 143px;">$Union</td>
+<td style="width: 258px;">W, 3-1 (9-15, 15-13, 15-7, 15-10)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/23</td>
+<td style="width: 143px;">$Keuka</td>
+<td style="width: 258px;">W, 3-2 (1-15, 8-15, 15-9, 15-8, 15-12)</td>
+</tr>
+<tr>
+<td style="width: 195px;">10/26</td>
+<td style="width: 143px;">Elmira</td>
+<td style="width: 258px;">L, 3-0 (2-15, 6-15, 7-15)</td>
+</tr>
+<tr>
+<td style="width: 195px;">* - SUNYAC Match</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;"># - Cortland Classic</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">% - Ithaca Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">& - Oneonta Tournament</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+<tr>
+<td style="width: 195px;">$ - Oswego State Invitational</td>
+<td style="width: 143px;"></td>
+<td style="width: 258px;"></td>
+</tr>
+</tbody>
+</table>
